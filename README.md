@@ -4,7 +4,7 @@
  - [Ankita Sahu](https://github.com/sahua3228)
  - [Sudeep Rn. Swain](https://github.com/Sudeep25022000)
  - [ASVK Vinayak](https://github.com/ASVKVINAYAK)
- - [Anshuman Mohapatra](- [Ankita Sahu](https://github.com/sahua3228))
+ - [Anshuman Mohapatra]((https://github.com/sahua3228))
  - [Anup Ghosh](https://github.com/AnupGhosh2605) 
  - [Arindam Panda](https://github.com/amohapatra123)
  
